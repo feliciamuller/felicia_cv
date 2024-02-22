@@ -1,0 +1,28 @@
+.cv-container{
+    width: 90%;
+    display:grid;
+    gap: 10px;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 5px;
+    flex-wrap: wrap;
+}
+
+.cv-section{
+    background-color: rgb(240, 248, 240);
+    border-radius: 1%;
+    width: 100%;
+    text-align: center;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.cv-section ul{
+    padding: 0;
+}
+.cv-section li{
+    list-style-type: none;
+    font-size: 1em;
+}

@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+}
+
+.home-container, .contact-container{
+    width: 50%;
+    background-color: rgb(240, 248, 240);
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 1%;
+}
+
+.home-content{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+#profile-image{
+    width: 200px;
+    margin: 10px;
+    bottom: 0;
+    border-radius: 1%;
+}
+
+.modal-container{
+    margin: 0 auto;
+    border: 1px solid grey;
+    border-radius: 7%;
+    background-color: rgba(204, 248, 226, 0.521);
+    width: 30%;
+    text-align: center;
+}
+
+.modal-text{
+    display: grid;
+    gap: 10px;
+    list-style: none;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+}
+
+.closeBtn{
+    margin: 0 auto;
+    margin-bottom: 5px;
+    justify-content: center;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-container{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 5px;
+    background-color: rgb(240, 248, 240);
+    border-radius: 1%;
+    text-align: center;
+}
+
+.about-content{
+    margin-left: 70px;
+    margin-right: 70px;
+
+}
+
+.repos-container{
+    padding: 10px;
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    display: grid;
+    flex-direction: column;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.repo-links{
+    display: grid;
+    text-decoration: none;
+    grid-auto-rows: 50px;
+    padding: 10px;
+    color: grey;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(240, 248, 240);
+}
+
+.repo-links:hover{
+    font-size: 1.2em;
+    color: rgb(240, 248, 240);
+    background-color: rgb(58, 87, 77);
+}

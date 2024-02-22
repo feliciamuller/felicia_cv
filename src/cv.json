@@ -1,0 +1,48 @@
+{
+    "anställningar": [
+      {
+        "id": 1,
+        "arbetsplats": "Telia Company",
+        "positioner": 
+        ["Enterprise Service Desk Analyst 2018-2023", 
+        "Account Manager 2017-2018", 
+        "Kundtjänstmedarbetare på företagsavdelningen 2017", 
+        "Butikssäljare 2015-2017"]
+      },
+      
+      {
+        "id": 2,
+        "arbetsplats": "SIA Runway España S.L 2014-2015",
+        "positioner": ["Säljande kundsupport för Norwegian Air Shuttle"]
+      },
+      {
+        "id": 3,
+        "arbetsplats": "Com Hem AB 2013-2014",
+        "positioner": ["Säljande teknisk support"]
+      }
+    ],
+    "utbildningar":[
+      {
+        "id": 4,
+        "skola": "Nolaskolan",
+        "utbilding": "Samhällsvetenskapsprogrammet 2010-2013"
+
+      },
+      {
+        "id": 5,
+        "skola": "Edugrade Yrkeshögskola",
+        "utbilding": "Systemutvecklare .NET med AI-kompetens 2023-2025"
+      }
+    ],
+    "övrigt":[
+      {
+        "id": 6,
+        "merit": "Under 2020-2023 var jag utlånad som testare för ett stort projekt där Telia ändrade beställningsflödet på hemsidan. Där gjorde jag acceptanstester och säkerställde att allt fungerade inför lansering. Där fick jag även erfarenhet av att jobba enligt den agila metoden Scrum. Jag var också change champion inom detta projekt och ansvarade för att förespråka lanseringarna för verksamheten."
+      },
+      {
+        "id": 7,
+        "merit": "Drivit ett förbättringsforum inom min avdelning på Telia där jag tog fram riktlinjer och arbetssätt hur vi jobbade med förbättringar och hur vi prioriterade dessa."
+      }
+    ]
+
+}

@@ -1,0 +1,17 @@
+.site-container{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-image: url(background4.png);
+  background-size: cover;
+}
+
+.site-content{
+  flex: 1; 
+}
+
+.site-footer{
+  text-align: center;
+  padding: 10px 0;
+  background-color: rgba(204, 248, 226, 0.521);
+}
