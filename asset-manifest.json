@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/felicia_cv/static/css/main.ef386b1b.css",
+    "main.js": "/felicia_cv/static/js/main.aff24fe8.js",
+    "static/js/592.8246119f.chunk.js": "/felicia_cv/static/js/592.8246119f.chunk.js",
+    "static/media/background4.png": "/felicia_cv/static/media/background4.8d3123e48fe2a18b1247.png",
+    "static/media/felicia.jpg": "/felicia_cv/static/media/felicia.3086d2d2c0da7351a30a.jpg",
+    "index.html": "/felicia_cv/index.html",
+    "main.ef386b1b.css.map": "/felicia_cv/static/css/main.ef386b1b.css.map",
+    "main.aff24fe8.js.map": "/felicia_cv/static/js/main.aff24fe8.js.map",
+    "592.8246119f.chunk.js.map": "/felicia_cv/static/js/592.8246119f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef386b1b.css",
+    "static/js/main.aff24fe8.js"
+  ]
+}
